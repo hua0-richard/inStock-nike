@@ -1,0 +1,8 @@
+1. consolidate code into function which checks price, available size, and colour of shoe 
+	(note: each shoe page's href defaults to one colour. need to use driver to click on other shoe colour)
+	function needs to return the data about the shoe in list form
+2. create a query system where user is able to copy links from nike website to add "watchlist"
+3. add feature where use is sent a type of notification (email etc.) when item is back in stock
+4. work on the web ui portion (use flask)
+5. run selenium in headless mode and verify program runs as expected
+
